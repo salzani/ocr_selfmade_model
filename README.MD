@@ -1,4 +1,4 @@
-# *Self-made project based on my computer vision studies*
+# *Project based on my computer vision studies*
 
 ## Topics
 
